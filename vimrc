@@ -1,4 +1,4 @@
-title : lol 
+title: lol 
 ```vim
 
 syntax on
