@@ -1,4 +1,4 @@
-title: lol 
+title: Get your Vim setup !
 ```vim
 
 syntax on
